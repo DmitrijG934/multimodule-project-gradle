@@ -1,0 +1,6 @@
+rootProject.name = 'multimodule-project'
+include 'common'
+include 'writer'
+include 'reader'
+include 'reader'
+
